@@ -1,5 +1,9 @@
 # planificador
 
-# Hecho con ReactJS
 
-# se puede ver en:
+
+
+Hecho con ReactJS
+
+Se puede ver en:
+
