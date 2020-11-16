@@ -3,7 +3,7 @@
 
 
 
-Hecho con ReactJS/ Firebase
+Hecho con ReactJS -Hooks
 
 Se puede ver en:
 
