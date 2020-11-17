@@ -1,14 +1,14 @@
 import react from 'react'
 import Tarea from './Tarea'
 
-const List = ({ tareas, setTareas }) => {
+const List = ({ tareas, setTareas, tareasFiltradas }) => {
 
     return (
 
 
         <div className="todo-container">
             <ul className="todo-list">
-                {tareas.map((tarea) => (
+                {tareasFiltradas.map((tarea) => (
                     <Tarea tareas={tareas}
                         setTareas={setTareas}
                         key={tarea.id}
